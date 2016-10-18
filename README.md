@@ -8,8 +8,8 @@
 
 ---
 
-#Make me a heading size 1
-###Make me a heading size 3
+<h1>Make me a heading size 1</h1>
+<h3>Make me a heading size 3</h3>
 
 Put a line BELOW me!
 
@@ -33,7 +33,7 @@ the preview it looks like one line
 
 _Make me italicized_
 
-Turn this entire line of text into a link that goes to hstat.org
+[Turn this entire line of text into a link that goes to hstat.org](hstat.org)
 
 Turn this entire line of text into code
 
