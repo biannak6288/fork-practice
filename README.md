@@ -39,13 +39,8 @@ _Make me italicized_
 Turn this entire line of text into code
 ```
 
-<!-- HTML generated using hilite.me --><div style="background: #ffffff; overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><table><tr><td><pre style="margin: 0; line-height: 125%">1
-2
-3
-4
-5
-6
-7</pre></td><td><pre style="margin: 0; line-height: 125%">Turn the entire block of code below into a code snippet with HTML syntax highlighting (note: the cloud9 preview will not show the syntax highlighting).
+
+</pre></td><td><pre style="margin: 0; line-height: 125%">Turn the entire block of code below into a code snippet with HTML syntax highlighting (note: the cloud9 preview will not show the syntax highlighting).
 
 <span style="color: #007700">&lt;ol&gt;</span>
     <span style="color: #007700">&lt;li&gt;</span>Item 1<span style="color: #007700">&lt;/li&gt;</span>
